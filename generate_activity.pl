@@ -3,6 +3,8 @@
 # 自动将所有带@+id的控件初始化
 #
 
+####################################
+
 $activity_ext = "Activity";
 $file_ext = ".java";
 $template_filename = "activity_template.java";
